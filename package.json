@@ -1,0 +1,12 @@
+{
+  "name": "song-comments",
+  "version": "1.0.0",
+  "description": "A collection of songs with accompanying comments",
+  "main": "comments.json",
+  "scripts": {
+    "test": "echo 'No tests yet!'"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT"
+}
