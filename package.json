@@ -4,7 +4,8 @@
   "description": "A collection of songs with accompanying comments",
   "main": "comments.json",
   "scripts": {
-    "test": "echo 'No tests yet!'"
+    "test": "echo 'No tests yet!'",
+    "display-comments": "node display-comments.js"
   },
   "keywords": [],
   "author": "Damian Pitcon",
